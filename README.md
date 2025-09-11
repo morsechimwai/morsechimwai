@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Morse (Chimwai)
+# ✋ , I'm Morse (Chimwai)
 > 🦜 Solopreneur & Full-Stack Developer
 
 ---
