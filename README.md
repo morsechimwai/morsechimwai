@@ -1,4 +1,4 @@
-![Profile Views](https://hits.sh/github.com/morsechimwai.svg?style=flat-square)
+👁️ ![Profile Views](https://hits.sh/github.com/morsechimwai.svg?style=flat-square)
 
 ### ✋ I'm Morse (Chimwai)
 - Solopreneur
