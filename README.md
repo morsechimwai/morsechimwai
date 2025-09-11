@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Morse (Chimwai)
 
-## 🚀 Solopreneur & Full-Stack Developer
-## 🎓 Graduated in Computer Science (B.Sc. & M.Sc.)
+> 🚀 Solopreneur & Full-Stack Developer
 
 ### 🌱 Current Focus
 - Crafting AI-powered SaaS products with cost-optimized infrastructure
@@ -9,7 +8,6 @@
 - Exploring Computer Vision & IoT sensors for real-world applications
 
 ### 🛠️ My Playground
-
 - Frontend: Next.js + TailwindCSS + shadcn/ui
 - Backend/DB: Prisma + Supabase/Postgres
 - Auth: NextAuth.js
