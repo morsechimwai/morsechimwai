@@ -21,15 +21,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Morse's GitHub stats](https://github-readme-stats.vercel.app/api?username=morsechimwai&show_icons=true&theme=radical)
-
----
-
 ### 🗂️ Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morsechimwai&layout=compact&theme=radical)  
-
----
-
-### 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=morsechimwai&theme=onedark&row=1&column=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morsechimwai&layout=compact&theme=radical)
