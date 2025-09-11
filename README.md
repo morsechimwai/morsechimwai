@@ -1,6 +1,4 @@
 ![Profile Views](https://hits.sh/github.com/morsechimwai.svg?style=flat-square)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=morsechimwai.morsechimwai)
-
 
 ### ✋ I'm Morse (Chimwai)
 - Solopreneur
