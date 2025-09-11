@@ -1,3 +1,5 @@
+![Profile Views](https://hits.sh/github.com/morsechimwai.svg?style=flat-square)
+
 ### ✋ I'm Morse (Chimwai)
 - Solopreneur
 - Full-Stack Developer (FasterStack ⚡️)
@@ -12,11 +14,6 @@
 - **Deployment**: Vercel  
 - **Analytics**: PostHog  
 - **Support**: Crisp  
-
----
-
-### 🪛 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morsechimwai&layout=compact&theme=radical)
 
 ---
 
