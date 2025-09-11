@@ -1,4 +1,9 @@
-### ✋ I'm Morse (Chimwai) ![Profile Views](https://hits.sh/github.com/morsechimwai.svg?color=87CEEB)
+### ✋ I'm Morse (Chimwai) 
+![Profile Views](https://hits.sh/github.com/morsechimwai.svg?color=87CEEB)
+![Profile Views](https://hits.sh/github.com/morsechimwai.svg?style=plastic&color=5BC0EB)
+![Profile Views](https://hits.sh/github.com/morsechimwai.svg?style=for-the-badge&color=38BDF8)
+![Profile Views](https://hits.sh/github.com/morsechimwai.svg?style=social&color=0ea5e9)
+
 
 - Solopreneur
 - Full-Stack Developer (FasterStack ⚡️)
