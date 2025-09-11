@@ -1,5 +1,6 @@
 # ✋ I'm Morse (Chimwai)
-> 🦜 Solopreneur & Full-Stack Developer
+> Solopreneur
+> Full-Stack Developer
 
 ---
 
