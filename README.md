@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Morse (Chimwai)
 
-<!--
-**morsechimwai/morsechimwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Solopreneur & Full-Stack Developer
+## 🎓 Graduated in Computer Science (B.Sc. & M.Sc.)
 
-Here are some ideas to get you started:
+### 🌱 Current Focus
+- Crafting AI-powered SaaS products with cost-optimized infrastructure
+- Blending business strategy + deep tech to reach $10k MRR
+- Exploring Computer Vision & IoT sensors for real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Playground
+
+- Frontend: Next.js + TailwindCSS + shadcn/ui
+- Backend/DB: Prisma + Supabase/Postgres
+- Auth: NextAuth.js
+- Payments: Stripe
+- Deployment: Vercel
+- Analytics: PostHog
+- Support: Crisp
