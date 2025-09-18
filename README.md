@@ -1,5 +1,3 @@
- ![Profile Views](https://hits.sh/github.com/morsechimwai.svg?style=for-the-badge&color=38BDF8)
- 
 ### ✋ I'm Morse (Chimwai)
 - Solopreneur
 - Full-Stack Developer (FasterStack ⚡️)
@@ -23,3 +21,7 @@
 - Exploring **Computer Vision & IoT sensors** for real-world applications  
 
 ---
+
+### 🗞️ Publication
+Fresh Weight Estimation of Lettuce Using 3D Stereoscopic Technique. Presented at 2023 8th International Conference on Business and Industrial Research (ICBIR). [Link]((https://ieeexplore.ieee.org/document/10147436))
+
