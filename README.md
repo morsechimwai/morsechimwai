@@ -1,6 +1,7 @@
 ### ✋ I'm Morse (Chimwai)
+- Full-Stack Developer
+- Computer Vision Engineer
 - Solopreneur
-- Full-Stack Developer (FasterStack ⚡️)
 
 ---
 
