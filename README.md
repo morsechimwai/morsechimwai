@@ -9,9 +9,9 @@ Solopreneur & Full-Stack Developer passionate about Computer Vision Engineering 
 
 ### Education
 
-- 2023 - Master’s in Computer Science, Khon Kaen University, Khon Kaen, TH
+- 2023 - Master’s in Computer Science, Khon Kaen University, TH
 
-- 2018 - Bachelor’s in Computer Science, Khon Kaen University, Khon Kaen, TH
+- 2018 - Bachelor’s in Computer Science, Khon Kaen University, TH
 
 
 
