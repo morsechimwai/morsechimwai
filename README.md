@@ -1,5 +1,5 @@
 ### About
-Solopreneur & Full-Stack Developer passionate about Computer Vision Engineering and creating impactful products.
+Indie Hackers & Full-Stack Developer passionate about Computer Vision Engineering and creating impactful products.
 
 ### Experience
 
