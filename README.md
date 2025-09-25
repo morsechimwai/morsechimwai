@@ -1,5 +1,5 @@
 ### About
-Indie Hackers & Full-Stack Developer passionate about Computer Vision Engineering and creating impactful products.
+Indie Hacker & Full-Stack Developer passionate about Computer Vision, building impactful digital products.
 
 ### Experience
 
