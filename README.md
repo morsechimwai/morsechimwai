@@ -33,6 +33,6 @@ Indie Hacker & Full-Stack Developer passionate about Computer Vision, building i
 - OpenCV
 
 **Infra & Tools**
-- StackAuth / AuthStack
+- StackAuth
 - imageKit.io
 
