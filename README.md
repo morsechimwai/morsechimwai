@@ -17,10 +17,8 @@ Indie Hacker & Full-Stack Developer passionate about Computer Vision, building i
 
 **Frontend**
 - ReactJS / Next.js
-- TailwindCSS, Shadcn UI, Figma Tokens
-
-**Mobile**
 - React Native / Expo
+- TailwindCSS, Shadcn UI, Figma Tokens
 
 **Backend**
 - FastAPI
