@@ -16,11 +16,11 @@ Indie Hacker & Full-Stack Developer passionate about Computer Vision, building i
 ## Tech Stack
 
 **Frontend**
-- ReactJS / Next.js (TypeScript)
+- ReactJS / Next.js
 - TailwindCSS, Shadcn UI, Figma Tokens
 
 **Mobile**
-- React Native
+- React Native / Expo
 
 **Backend**
 - FastAPI
