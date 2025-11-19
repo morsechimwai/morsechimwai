@@ -33,5 +33,4 @@ Indie Hacker & Full-Stack Developer passionate about Computer Vision, building i
 
 **Infra & Tools**
 - StackAuth
-- imageKit.io
 
