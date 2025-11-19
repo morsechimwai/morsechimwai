@@ -27,7 +27,7 @@ Indie Hacker & Full-Stack Developer passionate about Computer Vision, building i
 - Neon Serverless
 
 **AI / Computer Vision**
-- Stereo Vision & 3D Depth/Distance/Volume Estimation (Practical Foundations)
+- Stereo Vision & 3D Depth / Distance / Volume Estimation (Practical Foundations)
 - OpenCV
 - PyTorch, YOLO (Ultralytics)
 
