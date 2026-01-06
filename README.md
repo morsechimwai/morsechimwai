@@ -23,7 +23,7 @@ Indie Hacker & Full-Stack Developer passionate about Computer Vision, building i
 **Backend**
 - FastAPI
 - Prisma + PostgreSQL
-- Supabase (Auth, DB, Storage)
+- Supabase (Auth, DB, Storage, Realtime)
 - Neon Serverless
 
 **AI / Computer Vision**
